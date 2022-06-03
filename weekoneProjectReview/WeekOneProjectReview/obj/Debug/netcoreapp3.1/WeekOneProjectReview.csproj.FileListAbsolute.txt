@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\WeekOneProjectReview\WeekOneProjectReview\bin\Debug\netcoreapp3.1\WeekOneProjectReview.exe
+C:\Users\hp\source\repos\WeekOneProjectReview\WeekOneProjectReview\bin\Debug\netcoreapp3.1\WeekOneProjectReview.deps.json
+C:\Users\hp\source\repos\WeekOneProjectReview\WeekOneProjectReview\bin\Debug\netcoreapp3.1\WeekOneProjectReview.runtimeconfig.json
+C:\Users\hp\source\repos\WeekOneProjectReview\WeekOneProjectReview\bin\Debug\netcoreapp3.1\WeekOneProjectReview.runtimeconfig.dev.json
+C:\Users\hp\source\repos\WeekOneProjectReview\WeekOneProjectReview\bin\Debug\netcoreapp3.1\WeekOneProjectReview.dll
+C:\Users\hp\source\repos\WeekOneProjectReview\WeekOneProjectReview\bin\Debug\netcoreapp3.1\WeekOneProjectReview.pdb
+C:\Users\hp\source\repos\WeekOneProjectReview\WeekOneProjectReview\obj\Debug\netcoreapp3.1\WeekOneProjectReview.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\WeekOneProjectReview\WeekOneProjectReview\obj\Debug\netcoreapp3.1\WeekOneProjectReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\WeekOneProjectReview\WeekOneProjectReview\obj\Debug\netcoreapp3.1\WeekOneProjectReview.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\WeekOneProjectReview\WeekOneProjectReview\obj\Debug\netcoreapp3.1\WeekOneProjectReview.AssemblyInfo.cs
+C:\Users\hp\source\repos\WeekOneProjectReview\WeekOneProjectReview\obj\Debug\netcoreapp3.1\WeekOneProjectReview.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\WeekOneProjectReview\WeekOneProjectReview\obj\Debug\netcoreapp3.1\WeekOneProjectReview.dll
+C:\Users\hp\source\repos\WeekOneProjectReview\WeekOneProjectReview\obj\Debug\netcoreapp3.1\WeekOneProjectReview.pdb
+C:\Users\hp\source\repos\WeekOneProjectReview\WeekOneProjectReview\obj\Debug\netcoreapp3.1\WeekOneProjectReview.genruntimeconfig.cache
